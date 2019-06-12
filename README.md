@@ -40,16 +40,14 @@ https://docs.google.com/drawings/d/1j97aJuxECc9LCGTmWHZj_WvUu3nOUhYvH4jE1kiQJeM/
 
 ## Research Topics
 
-* (3 points) Socket.io
+* Socket.io
     * this will update to everyone's browser as soons as someone creates a post in the database.
     
-* (4 points) Parcel
+* Parcel
     * this will lower overhead as Parcel creates a bundle for all the css/js files in the html
     
-* (2 points) jQuery
+* jQuery
     * this will make ajax requests simpler to write for me! (the developer!)
-    
-9 points total out of 8 required points
 
 
 ## [Link to Initial Main Project File](/server.js) 
